@@ -1,7 +1,7 @@
 # 3D Arcade Game
 
 Space shooter game with quick switching between 2D and 3D projection, written
-in Java using OpenGL API. Built using principles of hierarchical modelling and
+in Processing (Java) using OpenGL API. Built using principles of hierarchical modelling and
 particle systems.
 
 
